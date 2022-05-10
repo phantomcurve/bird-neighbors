@@ -1,6 +1,6 @@
 # Meet Your Bird Neighbors
 
-#### _A web-based application which takes a zip code from the user and returns a recently sited local bird as well as recordings of that bird's songs and calls._
+#### _A web-based application which takes a zip code from the user and returns a recently sighted local bird as well as recordings of the bird's songs and calls._
 
 #### By **Alex Bertotto, Smita Raj, Tim Roth, Marni Sucher and Jessica Williams**
 
